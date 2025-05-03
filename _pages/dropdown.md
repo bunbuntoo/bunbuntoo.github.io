@@ -1,13 +1,14 @@
 ---
 layout: page
-title: submenus
+title: Languages
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Deutsch
+    permalink: /de/
+  - title: 简中
+    permalink: /zh-cn/
+  - title: 繁中
+    permalink: /zh-tw/
 ---
