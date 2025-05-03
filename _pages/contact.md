@@ -4,11 +4,6 @@ permalink: /contact/
 title: Get in Touch
 description: Materials for courses you taught. Replace this text with your description.
 ---
----
-layout: page
-title: Contact
-permalink: /contact/
----
 
 <h1>Contact Us</h1>
 
