@@ -6,7 +6,7 @@ nav_order: 8
 dropdown: true
 children:
   - title: Our Story
-    permalink: /about/
+    permalink: /story/
   - title: Meet the Bunnies
     permalink: /bunnies/
   - title: Get in Touch
