@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Languages
+title: About
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Deutsch
-    permalink: /de/
-  - title: 简中
-    permalink: /zh-cn/
-  - title: 繁中
-    permalink: /zh-tw/
+  - title: Our Story
+    permalink: /about/
+  - title: Meet the Bunnies
+    permalink: /bunnies/
+  - title: Get in Touch
+    permalink: /contact/
 ---

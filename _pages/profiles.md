@@ -1,9 +1,9 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
+permalink: /bunnies/
+title: Meet the Bunnies
 description: members of the lab or group
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
