@@ -26,7 +26,17 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-**About the Project**  
-BunBunTOO is a project committed to advancing compassionate rabbit care. By sharing scientifically-supported practices and insights, it aims to raise awareness and improve the lives of rabbits globally. The mission is to advocate for rabbit welfare, as well as broader animal welfare, promoting kindness and respect for all creatures.
+## Our Fluffy Dream
+BunBunTOO is a project created to spread kindness and care for rabbits everywhere. We share science-backed knowledge and practices to help raise awareness and make life better for bunnies around the world. Our mission is to promote rabbit welfare and animal well-being, encouraging love and respect for all creatures, big and small.
 
 Curious about where all this starts? Click [here](./story) to learn more.
+
+## Hop Around
+- [News](./news) -- Updates and announcements
+- [Insights](./insights) -- Articles and posts
+- [Projects](./projects) -- Research, tools, and digital projects
+- [Resources](./resources) -- Knowledge hub, references, and helpful links
+- [Beyond Bunnies](./beyond) -- Caring for all beings（AnimalTOO）
+
+## The Bunny Crew
+Meet the cutest crew in town — [Teddy, Orelie, and Otis](./bunnies) !
