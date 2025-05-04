@@ -4,6 +4,7 @@ permalink: /contact/
 title: Get in Touch
 description: Let your kindness hop into our inbox.
 ---
+Drop us an email at [bunbuntoo.project@gmail.com](mailto:bunbuntoo.project@gmail.com) or use the form below. Alternatively, you can find us on Instagram, BlueSky, and X (Twitter) @bunbuntoo, though email is the quickest way to reach us :)
 
 <h1>Contact Us</h1>
 
