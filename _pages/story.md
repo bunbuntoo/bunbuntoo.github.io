@@ -9,3 +9,5 @@ Hi, I’m Yuki, the founder of BunBunTOO, a project born out of my personal jour
 Through my research and experiences, I’ve come to deeply admire the animal welfare philosophy practiced in Germany, where animals are viewed as beings with their own dignity, not simply as possessions of humans. I want to share the science-based rabbit care practices I’ve learned and help improve the lives of rabbits everywhere. However, my mission extends beyond rabbits — it's about all animals. I firmly believe that animals, big and small, deserve to be treated with respect, compassion, and care. I aim to promote these values through the content shared on this platform, while advocating for a more compassionate approach to all beings.
 
 This project may have started with me, but I hope it will grow into something that belongs to everyone who cares — a shared effort for the future.
+
+Want to get involved? [Get in touch](../../contact/) and help make a difference.
