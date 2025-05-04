@@ -2,7 +2,7 @@
 layout: page
 permalink: /contact/
 title: Get in Touch
-description: Materials for courses you taught. Replace this text with your description.
+description: Let your kindness hop into our inbox.
 ---
 
 <h1>Contact Us</h1>
