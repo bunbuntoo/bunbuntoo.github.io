@@ -10,4 +10,4 @@ Through my experiences and research, I’ve come to deeply admire Germany's anim
 
 This project may have started with me, but I hope it will grow into something that belongs to everyone who cares — a shared effort for the future.
 
-Want to get involved? [Get in touch](../../contact/) and help make a difference.
+Want to get involved? Check out [Our Mission](../../mission) and [Get in Touch](../../contact/) to help make a difference.
