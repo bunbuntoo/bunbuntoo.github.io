@@ -28,7 +28,7 @@ latest_posts:
 ## About Project
 **BunBunTOO** is a project born out of love -- created to spread kindness and care for rabbits everywhere. We share science-backed knowledge and practices to help raise awareness and make life better for bunnies around the world. Our mission is to promote rabbit welfare and, more broadly, animal well-being -- encouraging love and respect for all creatures, big and small.
 
-So, what’s behind the name **BunBunTOO**? It’s a playful twist on “bunnies, too,” rooted in the belief that animals, just like us, are individuals worthy of care, respect, and dignity. The name also comes from three special bunnies: Teddy, Orelie, and Otis — whose presence marks the beginning of this journey.
+So, what’s behind the name **BunBunTOO**? It’s a playful twist on “bunnies, too,” rooted in the belief that bunnies, just like us, are individuals worthy of care, respect, and dignity. The name also comes from our three special bunnies: Teddy, Orelie, and Otis — whose presence marks the beginning of this journey.
 
 Curious about where all this starts? Find out more in [Our Story](./story) or discover the heart of our work in [Our Mission](./mission).
 
