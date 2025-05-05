@@ -2,7 +2,7 @@
 layout: page
 permalink: /story/
 title: Our Story
-description: From a bunny named Otis, to a mission that goes beyond bunnies.
+description: From three bunnies, to a mission that goes beyond.
 ---
 Hi, I’m Yuki, the founder of BunBunTOO, a project born out of my personal journey of love, loss and learning. I lost my beloved rabbit, Otis, and through this heartbreaking experience, I became more determined to learn as much as I could about proper rabbit care. As I explored, I discovered a troubling truth: many rabbits around the world are not properly cared for, and the attitudes toward them vary drastically depending on where you are. This lack of awareness and understanding filled me with deep sadness and sparked a strong desire to make a change.
 
