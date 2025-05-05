@@ -8,7 +8,7 @@ description: From three bunnies, to a mission that goes beyond.
 BunBunTOO is a non-profit, knowledge-based project dedicated to the health and welfare of rabbits. Our mission is to collect, translate, and present science-based rabbit care knowledge in an accessible, multilingual, and friendly format — for both bunny lovers and animal advocates around the world.
 
 ## 🐾 Why This Project Exists
-This initiative was born from both personal experience and observation. While caring for my beloved house rabbits, I encountered challenges that many rabbit owners face:
+This initiative was born from both personal experience and observation. While caring for my rabbits, I encountered challenges that many rabbit owners face:
 
 - Limited access to reliable information
 - Language barriers in veterinary resources
