@@ -37,7 +37,7 @@ Our long-term goals include:
 ## 👩‍💻 About the Creator
 Hi, I’m the creator of BunBunTOO. With a background in data science, I bring together my skills in research, multilingual knowledge organization, and animal care to promote better understanding of rabbits. This project combines my passion for rabbits with my expertise in knowledge curation and communication.
 
-This is a non-commercial initiative, created with care, curiosity, and the belief that informed compassion can lead to meaningful change. Interested? Find out more in  [Our Story](../../story).
+This is a non-commercial initiative, created with care, curiosity, and the belief that informed compassion can lead to meaningful change. Interested? Learn more in  [Our Story](../../story).
 
 ## 🤝 Get in Touch
 If you’d like to collaborate, contribute, or simply share your bunny story, feel free to contact me at [bunbuntoo.project@gmail.com](mailto:bunbuntoo.project@gmail.com) or visit the [Contact Page](../../contact) for more information.
