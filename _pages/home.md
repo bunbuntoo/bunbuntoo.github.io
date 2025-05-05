@@ -30,7 +30,7 @@ latest_posts:
 
 So, what’s behind the name **BunBunTOO**? It’s a playful twist on “bunnies, too,” rooted in the belief that animals, just like us, are individuals worthy of care, respect, and dignity. The name also comes from three special bunnies: Teddy, Orelie, and Otis — whose presence marks the beginning of this journey.
 
-Curious about where all this starts? Find out more in [Our Story](./story).
+Curious about where all this starts? Find out more in [Our Story](./story) or discover the heart of our work in [Our Mission](./mission).
 
 ## Hop Around
 Jump into our world and discover all the bunny goodness and beyond.（Our bunny builders are still setting things up behind the scenes. Thanks for hopping by early! 🐾）
