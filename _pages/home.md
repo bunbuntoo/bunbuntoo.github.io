@@ -44,6 +44,6 @@ Jump into our world and discover all the bunny goodness and beyond.
 Meet the cutest crew in town — [Teddy, Orelie, and Otis](./bunnies)! These three fluffy friends are the heart and soul of BunBunTOO, each with their own quirky personalities and endless charm. Whether they’re hopping around, snuggling up, or getting into mischief, they’re always keeping things fun and full of love.
 
 ## Where to Find Us
-You can catch a grimpse of bunny cuteness over on our [Instagram](https://www.instagram.com/bunbuntoo.de), where we currently share fluffy moments (mostly in German for now). The English account is a little quiet at the moment, but stay tuned for more updates and content coming soon! We’re hopping over to other platforms too, and we’ll let you know as soon as there’s more to see.
+You can catch a grimpse of bunny cuteness over on our [Instagram](https://www.instagram.com/bunbuntoo.de), where we currently share fluffy moments (mostly in German for now). The English and Chinese accounts are a little quiet at the moment, but stay tuned for more updates and content coming soon! We’re hopping over to other platforms too, and we’ll let you know as soon as there’s more to see.
 
 If you want to reach out or have any questions, feel free to visit our [Contact Page](./contact) — we’d love to hear from you!
