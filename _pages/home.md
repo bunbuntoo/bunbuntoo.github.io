@@ -33,12 +33,12 @@ So, what’s behind the name **BunBunTOO**? It’s a playful twist on “bunnies
 Curious about where all this starts? Find out more in [Our Story](./story).
 
 ## Hop Around
-Jump into our world and discover all the bunny goodness and beyond.
+Jump into our world and discover all the bunny goodness and beyond.（Our bunny builders are still setting things up behind the scenes. Thanks for hopping by early! 🐾）
 - [News](./news) -- Updates and announcements
 - [Insights](./insights) -- Articles and posts
-- [Projects](./projects) -- Research, tools, and digital projects
+- [Projects](./projects) -- Research, digital projects and tools
 - [Resources](./resources) -- Knowledge hub, references, and helpful links
-- [Beyond Bunnies](./beyond) -- Caring for all beings（AnimalTOO）
+- [Beyond Bunnies](./beyond) -- Caring for all beings（AnimalTOO & More）
 
 ## The Bunny Crew
 Meet the cutest crew in town — [Teddy, Orelie, and Otis](./bunnies)! These three fluffy friends are the heart and soul of BunBunTOO, each with their own quirky personalities and endless charm. Whether they’re hopping around, snuggling up, or getting into mischief, they’re always keeping things fun and full of love.
