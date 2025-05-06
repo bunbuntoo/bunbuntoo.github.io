@@ -14,4 +14,4 @@ Traits: A foodie diva, loves adventure and exploring new flavors. Her curiosity 
 Nicknames: 大丽/大力 (Da Li, meaning great beauty or great strength :D )   
 
 Orelie's Story:  
-Orelie and Otis were siblings who came to our home together and grew up happily side by side. Sadly, Otis passed away, but then Orelie found a new companion in Teddy. Now, they enjoy each other's company, sharing a deep connection and comfort every day.
+Orelie and Otis were siblings who came to our home together and grew up happily side by side. Sadly, Otis passed away, but then Orelie found a new companion in Teddy. Now, they enjoy each other's company, sharing a deep connection and start a new adventure together.
