@@ -14,8 +14,4 @@ A Golden Retriever? No, Teddy the Bunny. :D
 - Nicknames: Teddy-dog, Teddy the Doggy, 狗蛋（Gou Dan）
 
 Teddy's Story:  
-Before joining our family, Teddy lived alone. Without a fellow bunny companion, he spent much of his time in a cage, especially when no one was home. Though he was affectionate and loved people, it was clear he longed for a friend of his own kind. He would chase his ball by himself and sometimes lost his appetite when left alone.   
-
-His previous family, wanting to give him a better life, posted his information online, hoping someone with another rabbit might welcome him. Teddy waited for a while—young bunnies were more easily chosen—but eventually, the timing was just right. We were searching for a companion for Orelie, and that’s how Teddy came into our lives.
-
-He and Orelie met, had a tiny scuffle, and soon after began grooming each other. They quickly grew close, and now they share a warm and joyful companionship. Teddy’s presence brings light and laughter into the home, and we’re grateful every day that he found his way to us.
+Before joining our family, Teddy lived alone. Without a fellow bunny companion, he spent much of his time in a cage, when no one was home. Though he was affectionate and loved people, it was clear he longed for a friend of his own kind. His previous family, hoping for a better life for him, posted his information online. After waiting for a while, Teddy found his way to us when we were searching for a companion for Orelie. He and Orelie met, had a brief scuffle, and quickly grew close, sharing a joyful companionship. Teddy now brings warmth and happiness to our home, and we’re so grateful he found us.
