@@ -11,7 +11,7 @@
 - Joined our family: May 2019  
 - Personality: Intelligent, cautious, gentle, always caring for others. 
 - Traits: A true gentleman with a calm, curious nature. Always observing, thoughtful in his exploration of the world around him.
-- Nicknames: 小思/小斯斯 (Xiao Si, meaning the thinker/the gentleman)  
+- Nicknames: 小思/小斯 (Xiao Si, meaning the thinker/the gentleman)  
 
 Otis's Story:  
 Otis was the quiet protector of the group — gentle, caring, and cautious. He looked after his sister Orelie with care and patience, grooming her and watching over their world. Though he didn’t like head pats, he stayed close, calm and loyal, leaving behind a quiet warmth that still lingers. He loved exploring new places, with a few secret spots on his mind, and would cheekily nibble the wall or sneak a treat when no one was watching.
